@@ -1,33 +1,20 @@
 {
   "ultima_atualizacao": "2024-01-01",
   "fonte": "Receita Federal do Brasil",
-  "versao": "1.0",
+  "versao": "2.0",
   "tabelas": [
     {
       "vigencia": "01/2024 - Atual",
       "faixa1_isento": "Até R$ 2.259,20",
+      "deducao_faixa1": "-",
       "faixa2_75": "R$ 2.259,21 a R$ 2.826,65",
+      "deducao_faixa2": "R$ 169,44",
       "faixa3_15": "R$ 2.826,66 a R$ 3.751,05",
+      "deducao_faixa3": "R$ 381,44",
       "faixa4_225": "R$ 3.751,06 a R$ 4.664,68",
+      "deducao_faixa4": "R$ 662,77",
       "faixa5_275": "Acima de R$ 4.664,68",
-      "deducao_dependente": "R$ 189,59"
-    },
-    {
-      "vigencia": "01/2023 - 12/2023",
-      "faixa1_isento": "Até R$ 2.112,00",
-      "faixa2_75": "R$ 2.112,01 a R$ 2.826,65",
-      "faixa3_15": "R$ 2.826,66 a R$ 3.751,05",
-      "faixa4_225": "R$ 3.751,06 a R$ 4.664,68",
-      "faixa5_275": "Acima de R$ 4.664,68",
-      "deducao_dependente": "R$ 189,59"
-    },
-    {
-      "vigencia": "01/2022 - 12/2022",
-      "faixa1_isento": "Até R$ 1.903,98",
-      "faixa2_75": "R$ 1.903,99 a R$ 2.826,65",
-      "faixa3_15": "R$ 2.826,66 a R$ 3.751,05",
-      "faixa4_225": "R$ 3.751,06 a R$ 4.664,68",
-      "faixa5_275": "Acima de R$ 4.664,68",
+      "deducao_faixa5": "R$ 896,00",
       "deducao_dependente": "R$ 189,59"
     }
   ]
